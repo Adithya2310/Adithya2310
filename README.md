@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adithya2310
-- 👀 I’m interested in coding
+- 👀 I’m a web developer
 - 💞️ I’m looking to collaborate on basic projects
 
 <!---
