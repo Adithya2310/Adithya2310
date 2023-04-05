@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adithya2310
 - 👀 I’m a web developer
-- 💞️ I’m looking to collaborate on basic projects
+- 💞️ I’m looking to collaborate on projects
 
 <!---
 Adithya2310/Adithya2310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
