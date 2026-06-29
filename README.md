@@ -1,8 +1,8 @@
 # 👨‍💻 Adithya N G
 
-### 🚀 Web3 Developer | AI Explorer 
+### Full Stack Engineer(#Net&React) | 🚀 Web3 Developer | AI Explorer 
 
-Hi, I’m **Adithya** — a developer by passion. I am very passionate about **Web3, DeFi, AI, and decentralized platforms**. I thrive on building products that merge creativity with technical depth, and I love making complex ideas accessible to everyone.
+Hi, I’m **Adithya** — a developer by passion. I am very passionate about **Cloud, AI, and Blockchain**. I thrive on building products that merge creativity with technical depth, and I love making complex ideas accessible to everyone.
 
 ---
 
